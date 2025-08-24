@@ -1,7 +1,7 @@
 # Hi there! 👋 It's Jaetty's Github
 
 ### Algorithm
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acdc1975)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=acdc1975)](https://solved.ac/acdc1975/)
 
 
 ### Skills
