@@ -16,7 +16,7 @@
 <a href="https://www.credly.com/badges/1927efb8-8fec-4157-8053-b7f7fd581620/public_url">
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
 </a> <a href="https://www.credly.com/badges/ecf46897-fbdf-47d8-9476-e5e10a2773fd/public_url">
-  <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="150" />
+  <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="Certified Kubernetes Administrator" width="150" />
 </a>
 
 ### 🌱 I’m currently learning ...
