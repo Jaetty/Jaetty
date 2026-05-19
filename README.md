@@ -17,6 +17,8 @@
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="150" />
 </a>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ecf46897-fbdf-47d8-9476-e5e10a2773fd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/MSA-159588?style=for-the-badge&logo=msa&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/k3s-0052CC?style=for-the-badge&logo=k3s&logoColor=white"> <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
